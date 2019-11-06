@@ -1,5 +1,7 @@
 webdev{
   display: block;
   height: 400px;
-  background-color: turquoise;
+  padding: 10vw;
+  border-top-style: dashed;
+  margin: 80px;
 }
